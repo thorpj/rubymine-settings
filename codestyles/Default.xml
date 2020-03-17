@@ -1,12 +1,10 @@
 <code_scheme name="Default" version="173">
-  <option name="LINE_SEPARATOR" value="&#10;" />
-  <Ruby>
-    <option name="CHAIN_CALLS_ALIGNMENT" value="1" />
-  </Ruby>
-  <codeStyleSettings language="ruby">
-    <indentOptions>
-      <option name="CONTINUATION_INDENT_SIZE" value="2" />
-      <option name="USE_RELATIVE_INDENTS" value="false" />
-    </indentOptions>
+  <codeStyleSettings language="JAVA">
+    <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
+    <option name="LINE_COMMENT_ADD_SPACE" value="true" />
+    <option name="BRACE_STYLE" value="2" />
+    <option name="CLASS_BRACE_STYLE" value="2" />
+    <option name="METHOD_BRACE_STYLE" value="2" />
+    <option name="LAMBDA_BRACE_STYLE" value="2" />
   </codeStyleSettings>
 </code_scheme>
